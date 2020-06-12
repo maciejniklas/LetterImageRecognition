@@ -19,7 +19,7 @@ Project is focused on data analysis and modelling to classify given dataset. Thi
 * **Scikit-learn** - version 0.22.1
 
 ## Status
-Project is: **in progress**
+Project is: **finished**
 
 ## Contact
 Created by Maciej Niklas
